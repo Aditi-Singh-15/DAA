@@ -99,6 +99,40 @@ From Home Page:
 
 ---
 
+## 🎯 Target Audience
+- 🧑‍🎓 **Students**: Struggling with academic pressure and future uncertainties.
+- 👩‍💻 **Working Professionals**: Facing burnout, imbalance, and productivity dips.
+- 🧓 **Senior Citizens**: In need of emotional support and companionship.
+- 👨‍👩‍👧‍👦 **General Public**: Seeking an accessible, stigma-free mental wellness resource.
+- 🌍 **Rural & Multilingual Communities**: Who face cultural or linguistic barriers in accessing mental health support.
+
+--- 
+
+
+## 💼 Business Model
+1. **Freemium Access**: 
+   - Core features like PSS-based stress score, Emoto Bot, and educational content are free.
+2. **Premium Subscription** *(₹99/month)*:
+   - Access to advanced analytics, personalized mental fitness plans, emotion recognition AI, and multilingual therapy bots.
+3. **Paid Services**:
+   - Book 1:1 professional counseling sessions with certified therapists.
+   - Host or attend live webinars and wellness events.
+4. **Institutional Licensing**:
+   - Subscription packages for schools, universities, and corporate organizations with admin dashboards and analytics.
+5. **Sponsorship & CSR Collaboration**:
+   - Tie-ups with NGOs and government schemes for rural mental health outreach.
+
+## 💰 Costing (Rough Estimate)
+| Feature/Module                          | Cost (INR)        | Description                                               |
+|----------------------------------------|-------------------|-----------------------------------------------------------|
+| Frontend Development (React, Tailwind) | ₹20,000           | UI/UX, responsive design, multilingual support            |
+| Backend (Express.js, MongoDB)          | ₹15,000           | Secure API creation, user handling, session tracking      |
+| Firebase Authentication                | ₹2,000 (free tier)| For user login, session auth                              |
+| AI & Emotion Model (Python, DeepFace)  | ₹30,000           | Training + Deployment on Hugging Face/Streamlit           |
+| Emoto Bot & LangChain Integration      | ₹25,000           | Prompt engineering and personalized bot logic             |
+| Infrastructure & Hosting               | ₹10,000           | Cloud deployment, analytics integration                   |
+| Total Estimated MVP Cost               | **₹1,02,000**     | Covers tech, hosting, and AI integration                  |
+
 ## 📺 Demo Video
 
 [🔗 Watch Demo](https://youtu.be/YOUR_DEMO_LINK_HERE)
